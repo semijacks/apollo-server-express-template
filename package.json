@@ -1,7 +1,7 @@
 {
-  "name": "apollo-ordering-app",
+  "name": "-",
   "version": "1.0.0",
-  "description": "A restaurant ordering app backend with apollo",
+  "description": "-",
   "main": "index.js",
   "scripts": {
     "start": "node -r esm .",
