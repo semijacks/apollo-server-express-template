@@ -6,5 +6,6 @@ export const {
   port,
   MODE,
   IN_PROD = MODE !== "prod",
-  DB = "mongodb://localhost:27017/apollo-ordering-app",
+  //remember to add mongodb/collections name
+  DB = "mongodb://localhost:27017/",
 } = parsed;
