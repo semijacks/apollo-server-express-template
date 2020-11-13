@@ -1,1 +1,1 @@
-This is a template for create apollo-server-express apps
+This is a template for creating apollo-server-express apps
